@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 20px;
+    background-color: black;
+}
+
+.header a {
+    color: white;
+    font-size: 25px;
+}
+.header {
+    color: white;
+}
+.universe h2 {
+    display: inline-block;
+    padding: 10px 0px;
+}
+.universe{
+    border-bottom: solid black;
+    padding: 60px 40px;
+}
+.universe i {
+    font-size: 90px;
+    padding-right: 20px;
+}
+.universe p{
+    font-size: 30px;
+}
+.universe h2{
+    font-size: 90px;
+}
+
+.universe .top-p{
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+.universe .bottom-p{
+    font-weight: light;
+    font-size: 20px;
+}
+
+.afford i{
+    color: aqua;
+}
+
+.website{
+    background: aqua;
+}
+
+.website i{
+    color: white;
+}
+.custom{
+    background-color: lightgrey;
+}
+
